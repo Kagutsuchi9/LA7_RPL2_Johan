@@ -1,4 +1,5 @@
-#LA7_RPL2_Johan
+# Laporan Akhir7_RPL2_Johan_50421686_4IA28
+README.md ini berisikan penjelasan singkat terkait file 1-7 act yang di push kedalam repository.
 
 ## ACT 1: Pengenalan OOP
 Pada Activity pertama, materi membahas dasar-dasar pemrograman berorientasi objek (OOP), khususnya tentang pembuatan kelas dan objek. Kode yang disediakan melibatkan kelas dasar yang merepresentasikan suatu entitas (misalnya, Mahasiswa). Dalam kelas ini, atribut dan metode sederhana dibuat untuk mendefinisikan data dan perilaku objek mahasiswa. Output menunjukkan penggunaan instansiasi objek dari kelas ini dan menampilkan data atribut yang telah diinisialisasi.
